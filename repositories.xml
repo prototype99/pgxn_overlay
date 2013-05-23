@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[pgxn]]></name>
+    <description><![CDATA[Collection of ebuilds for PostgreSQL extensions]]></description>
+    <owner>
+      <email>ronan@dunklau.fr</email>
+    </owner>
+    <source type="git">git://github.com/rdunklau/pgxn_overlay.git</source>
+  </repo>
+</repositories>
