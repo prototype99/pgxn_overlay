@@ -4,8 +4,8 @@
 
 EAPI=5
 
-DESCRIPTION=""
-HOMEPAGE=""
+DESCRIPTION="Extension to manage partitioned tables by time or ID"
+HOMEPAGE="http://pgxn.org/dist/pg_partman/1.1.0/"
 LICENSE="The postgresql license"
 KEYWORDS="~amd64"
 
